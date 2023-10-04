@@ -9,6 +9,7 @@ This project showcases SQL database management skills, including schema design, 
 ## Table of Contents
 
 - [Database Schema](#database-schema)
+- [Inserting the Data](#Inserting-the-Data)
 - [SQL Queries](#sql-queries)
 
   
@@ -24,7 +25,7 @@ The database schema includes the following tables:
 
 Please refer to the `Create_Tables.sql` file for the schema details.
 
-##Inserting the Data
+## Inserting the Data
 
 The `Insert_Data.sql` file contains SQL statements to populate the database tables with sample data for the Online Bookstore Database Project. It is an essential component of the project, as it provides the initial data required for testing and querying the database.
 
